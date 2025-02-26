@@ -8,13 +8,13 @@ from app import add, multiply, divide, greet
 
 class TestFunctions(unittest.TestCase):
     """Unit tests for functions in the app module."""
-    
+
     def test_add(self):
         """Test the add function with various inputs."""
         self.assertEqual(add(2, 3), 5)
         self.assertEqual(add(-1, 1), 0)
         self.assertEqual(add(0, 0), 0)
-        
+   
     def test_multiply(self):
         """Test the multiply function with various inputs."""
         self.assertEqual(multiply(2, 3), 6)
