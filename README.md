@@ -3,7 +3,7 @@ Badges :
 [![Exécution des Tests](https://github.com/nattther/PARTIEL_3INFO_DEVOPS/actions/workflows/tests.yml/badge.svg)](https://github.com/nattther/PARTIEL_3INFO_DEVOPS/actions/workflows/tests.yml)
 
 
-
+[![Pylint](https://github.com/nattther/PARTIEL_3INFO_DEVOPS/actions/workflows/pylint.yml/badge.svg)](https://github.com/nattther/PARTIEL_3INFO_DEVOPS/actions/workflows/pylint.yml)
 
 
 # Partiel DEVOPS - Exemple avec Python et GitHub Actions
