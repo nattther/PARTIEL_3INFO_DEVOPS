@@ -1,3 +1,11 @@
+Badges : 
+
+[![Exécution des Tests](https://github.com/nattther/PARTIEL_3INFO_DEVOPS/actions/workflows/tests.yml/badge.svg)](https://github.com/nattther/PARTIEL_3INFO_DEVOPS/actions/workflows/tests.yml)
+
+
+
+
+
 # Partiel DEVOPS - Exemple avec Python et GitHub Actions
 
 Ce dépôt contient un projet Python simple avec :
